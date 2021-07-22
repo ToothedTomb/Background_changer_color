@@ -148,7 +148,7 @@ p {
 main {
   min-height: 100vh;
   display: grid;
-  place-items: left;
+  place-items: right;
 }
 
 /*
@@ -160,7 +160,7 @@ nav {
   background: var(--clr-white);
   height: 3rem;
   display: grid;
-  align-items: center;
+  align-items: right;
   box-shadow: var(--dark-shadow);
 }
 .nav-center {
