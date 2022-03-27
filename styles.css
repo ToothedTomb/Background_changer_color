@@ -229,5 +229,5 @@ main {
 }
 .btn-hero:hover {
   color: var(--clr-black);
-  background: var(--clr-pink);
+  background: var(--clr-purple);
 }
