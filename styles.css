@@ -157,7 +157,7 @@ Nav
 ===============
 */
 nav {
-  background: var(--clr-white);
+  background: var(--clr-pink);
   height: 3rem;
   display: grid;
   align-items: right;
@@ -204,7 +204,7 @@ main {
 }
 .container h2 {
   background: var(--clr-black);
-  color: var(--clr-white);
+  color: var(--clr-pink);
   padding: 1rem;
   border-radius: var(--radius);
   margin-bottom: 2.5rem;
